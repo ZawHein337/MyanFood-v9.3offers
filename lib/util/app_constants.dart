@@ -6,7 +6,7 @@ import 'package:stackfood_multivendor/util/images.dart';
 
 class AppConstants {
   static const String appName = 'MyanFood';
-  static const double appVersion = 2.1; ///Flutter SDK: 3.47.2
+  static const double appVersion = 2.2; ///Flutter SDK: 3.47.2
 
   static const String fontFamily = 'DMSans';
   static const Color primaryColor = Color(0xFFFF8200);
